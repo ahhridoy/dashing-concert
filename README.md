@@ -1,8 +1,8 @@
-# We Want To Organize a Musical Concert
+# We want to organize a musical concert
 
-This Concert's site[The Dashing Concert](https://the-dashingconcert.netlify.app/).
+This Concert's site[The Dashing Concert] (https://the-dashingconcert.netlify.app/)
 
 This site works to select best singers in Bangladesh
-1. Showing total Budget of this concert.
-2. Bangladesh's Top 10 Singers List.
-3. & This Singer's charged of amount.
+1. Showing total budget of this concert.
+2. Bangladesh's top 10 Singers list.
+3. This Singer's charged of amount.
