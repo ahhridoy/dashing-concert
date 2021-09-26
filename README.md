@@ -1,6 +1,6 @@
 # We want to organize a musical concert
 
-This Concert's site[The Dashing Concert] (https://the-dashingconcert.netlify.app/)
+This Concert's site https://the-dashingconcert.netlify.app/
 
 This site works to select best singers in Bangladesh
 1. Showing total budget of this concert.
