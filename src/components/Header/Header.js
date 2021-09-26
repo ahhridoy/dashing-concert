@@ -6,7 +6,7 @@ const Header = () => {
         // Header component
         <div className="header-div">
             <h2 className="first-title">
-                We Want To Organize a Musical Concert
+                Organize A Musical Concert
             </h2>
             <h1 className="second-title">Total Budget: 15 Million</h1>
         </div>
