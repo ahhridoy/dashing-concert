@@ -1,0 +1,20 @@
+.cart-container {
+    background-color: rgb(0, 94, 94);
+    border: 2px solid salmon;
+    padding: 8px;
+    border-radius: 10px;
+    position: fixed;
+    width: 360px;
+}
+.top-area {
+    color: lightpink;
+}
+.select-area {
+    color: lightyellow;
+}
+.charged-area {
+    color: lightgoldenrodyellow;
+}
+.select-name {
+    color: blanchedalmond;
+}

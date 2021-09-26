@@ -1,0 +1,92 @@
+[
+    {
+       "id":1,
+       "name":"James",
+       "role":"Singer",
+       "age":57,
+       "country":"Bangladesh",
+       "salary":440000,
+       "img":"https://media-eng.dhakatribune.com/uploads/2017/10/maxresdefault-2.jpg"
+    },
+    {
+       "id":2,
+       "name":"Runa Laila",
+       "role":"Singer",
+       "age":68,
+       "country":"Bangladesh",
+       "salary":280000,
+       "img":"https://upload.wikimedia.org/wikipedia/commons/0/0c/Runa_Laila_on_4_July_2017_%2801%29_%28cropped%29.jpg"
+    },
+    {
+       "id":3,
+       "name":"Sabina Yasmin",
+       "role":"Singer",
+       "age":67,
+       "country":"Bangladesh",
+       "salary":300000,
+       "img":"https://www.daily-sun.com/assets/news_images/2019/11/02/Sabina_Yasmin-daily-sun.jpg"
+    },
+    {
+       "id":4,
+       "name":"Asif Akbar",
+       "role":"Singer",
+       "age":49,
+       "country":"Bangladesh",
+       "salary":230000,
+       "img":"https://upload.wikimedia.org/wikipedia/commons/6/67/Asif_Akbar_in_a_Program_on_2017_1.jpg"
+    },
+    {
+       "id":5,
+       "name":"Kumar Bishwajit",
+       "role":"Singer",
+       "age":58,
+       "country":"Bangladesh",
+       "salary":280000,
+       "img":"https://m.media-amazon.com/images/M/MV5BMjJjYWU2NzUtZGYxNy00MmMzLWIzZTctZDg3ZDNlMWY5YjY1XkEyXkFqcGdeQXVyNDI3NjcxMDA@._V1_.jpg"
+    },
+    {
+       "id":6,
+       "name":"Bappa Mazumder",
+       "role":"Singer",
+       "age":47,
+       "country":"Bangladesh",
+       "salary":200000,
+       "img":"https://upload.wikimedia.org/wikipedia/commons/4/40/Bappa_Mazumder.jpg"
+    },
+    {
+       "id":7,
+       "name":"Habib Wahid",
+       "role":"Singer",
+       "age":41,
+       "country":"Bangladesh",
+       "salary":390000,
+       "img":"https://yt3.ggpht.com/ytc/AKedOLT5Y4QxvHam4uSFXFyljPXeVXsEXBEKLU7qAO09=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+       "id":8,
+       "name":"Tahsan Khan",
+       "role":"Singer",
+       "age":41,
+       "country":"Bangladesh",
+       "salary":400000,
+       "img":"https://upload.wikimedia.org/wikipedia/commons/9/9f/Tahsan_Rahman_Khan_%28cropped%29.jpg"
+    },
+    {
+       "id":9,
+       "name":"Hridoy Khan",
+       "role":"Singer",
+       "age":30,
+       "country":"Bangladesh",
+       "salary":350000,
+       "img":"https://i1.sndcdn.com/avatars-000244577522-oqy1p7-t500x500.jpg"
+    },
+    {
+      "id":10,
+      "name":"Porshi",
+      "role":"Singer",
+      "age":25,
+      "country":"Bangladesh",
+      "salary":160000,
+      "img":"https://upload.wikimedia.org/wikipedia/commons/b/bc/Sabrina_Porshi_%28cropped%29.jpg"
+   }
+ ]
